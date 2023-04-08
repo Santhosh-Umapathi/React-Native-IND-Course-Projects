@@ -1,0 +1,100 @@
+MARK: Topics Covered
+
+
+//------------------------------------------------------------------
+//MARK: Local Home Screen
+
+- Adding navigation Listener
+- JSON Parse
+- Async Storage getAllKeys (get all keys)
+- Async Storage multiGet (get all values for keys)
+- Array Sorting
+
+//------------------------------------------------------------------
+//MARK: Local Create Screen
+
+- Alert 
+- Async Storage Set item (Store with key,value in local storage)
+- JSON Stringify (Convery JSON object to string)
+- .then
+- .catch
+- Date.now().toString
+- Keyboard Dismiss
+- Touchable without feedback (to dismiss keyboard)
+
+//------------------------------------------------------------------
+//MARK: Local View Screen
+
+- Async Storage delete item
+- Platform OS check
+- SMS action
+- Call action
+- Linking API canOpenURL, openURL
+
+//------------------------------------------------------------------
+//MARK: Random User Screen
+
+- Fetch json data from API
+- Activity indicator
+- Converting results into JSON
+
+//------------------------------------------------------------------
+//MARK: Firebase User Auth Screen (Loading Screen)
+
+- Firebase user auth check
+- Navigation Screen replace
+- Loading until auth state check completes
+
+
+//------------------------------------------------------------------
+//MARK: Firebase User Auth SignUp Screen
+
+- Firebase create user
+- update user display name
+
+//------------------------------------------------------------------
+//MARK: Firebase User Auth Login Screen
+
+- Firebase Login user
+
+//------------------------------------------------------------------
+//MARK: Firebase User Auth Home Screen
+
+- Firebase Signout user
+- Fetch user details from Firebase
+
+//------------------------------------------------------------------
+//MARK: Firebase Message Screen
+
+- Add data into firebase as objects
+- Fetch data from Firebase 
+
+
+//------------------------------------------------------------------
+//MARK: Firebase Create Screen
+
+- Image Picker
+- Create Blob
+- Upload Image to Firebase Storage
+- Upload data object to Firebase Database
+
+//------------------------------------------------------------------
+//MARK: Firebase Home Screen
+
+- Image Picker
+- Fetching Data from Firebase Database
+- Adding keys to firebase database values
+
+//------------------------------------------------------------------
+//MARK: Firebase View Screen
+
+- Image Picker
+- Fetch data from firebase database child
+- Remove child from firebase db
+
+//------------------------------------------------------------------
+//MARK: Firebase Edit Screen
+
+- Image Picker
+- Update firebase data values
+- Update firebase storage image

@@ -1,0 +1,64 @@
+//MARK: RN-IND-FundamentalsApp
+
+------------------------------------------------------------------
+//MARK: DemoScreen
+
+- .map (loop through the array elements)
+- .split (split array with given splitter)
+- .join (Join element at end)
+
+------------------------------------------------------------------
+//MARK: Background Changer
+
+- passing method to button
+- passing custom style as 2nd argument to styles object
+- Math.floor (into int)
+- Math.Random (generate random no. 0 -1)
+- String injection
+
+------------------------------------------------------------------
+//MARK: Dice Screen
+
+ - Image source with full require
+ - String Injection not possible with image source
+
+ ------------------------------------------------------------------
+ //MARK: Currency Screen
+
+ - parseFloat(convert into floating no.)
+ - Creating Java object
+ - Passing Java object key value
+ - checking user input if not empty
+ - Keyboard API , dismiss on click outside
+ - Touchable without feedback
+ - expo eject : npm run eject
+
+ ------------------------------------------------------------------
+ //MARK: Tic Tac Toe Screen
+
+ - Array(9).fill() (new Array fill logic)
+ - .concat (Adds something in the end)
+
+ ------------------------------------------------------------------
+ //MARK: SoundScreen
+
+ - playing sound using expo sound
+ - removing sound listner after played to avoid performace issues
+ - set timeout
+
+ ------------------------------------------------------------------
+ //MARK: Follow Screen & Follow 2 Screen
+
+ - .splice(pulling out a element from array)
+ - .push (Pushing a new element to an array)
+ - .map
+
+ ------------------------------------------------------------------
+ //MARK: Photo Screen & Photo Clicker Screen
+
+ - Camera API
+ - useEffect to use once
+ - Flash mode
+ - Camera Flip
+ - Permissions
+ - Image resize mode
